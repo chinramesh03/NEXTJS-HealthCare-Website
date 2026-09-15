@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="ENTRova is a free, modern, and SEO-optimized React & Next.js template tailored for ENT clinics, doctors, and medical websites. Built with React 18+, Next.js 15+, Bootstrap 5 & SCSS." />
+  <meta name="description" content="AROGYA ENT is a free, modern, and SEO-optimized React & Next.js template tailored for ENT clinics, doctors, and medical websites. Built with React 18+, Next.js 15+, Bootstrap 5 & SCSS." />
   <meta name="keywords" content="ENT Clinic Template, React Medical Template, Next.js Healthcare Template, Bootstrap Medical UI, Free Medical Template" />
   <meta name="author" content="Themixly Web" />
   <link rel="canonical" href="https://github.com/chinramesh03/nextjs-medical-website-template" />
 </head>
 <body>
 
-<h1>ENTRova – Free React & Next.js Medical Template for ENT Clinics, Doctors & Healthcare Websites</h1>
+<h1>AROGYA ENT – Free React & Next.js Medical Template for ENT Clinics, Doctors & Healthcare Websites</h1>
 
 <h2>Introduction</h2>
-<p>ENTRova is a free, modern, and SEO-optimized Next.js & Bootstrap medical website template tailored for ENT clinics, healthcare professionals, doctors, and hospitals. Built with React 18+, Next.js 15+, Bootstrap 5, and SCSS, it's ideal for creating fast, responsive, and professional websites in the healthcare and medical niche.</p>
+<p>AROGYA ENT is a free, modern, and SEO-optimized Next.js & Bootstrap medical website template tailored for ENT clinics, healthcare professionals, doctors, and hospitals. Built with React 18+, Next.js 15+, Bootstrap 5, and SCSS, it's ideal for creating fast, responsive, and professional websites in the healthcare and medical niche.</p>
 
 <h2>🔗 Live Preview & Download</h2>
 <ul>
@@ -78,7 +78,7 @@
   <img src="https://themixly.com/wp-content/uploads/2025/05/ENTRova-Product-Detail-Image3-scaled.png" alt="ENTRova Responsive Layout">
 </figure>
 
-<h2>✨ Why Choose ENTRova?</h2>
+<h2>✨ Why Choose AROGYA ENT?</h2>
 <ul>
   <li>Built for speed and performance</li>
   <li>Clean UI for healthcare and medical professionals</li>
@@ -102,7 +102,7 @@ npm run build     # Build for production</code></pre>
 
 <h3>📁 Folder Structure</h3>
 
-<pre><code>ENTRova/
+<pre><code>AROGYAENT/
 ├── pages/
 ├── public/
 │   ├── images/

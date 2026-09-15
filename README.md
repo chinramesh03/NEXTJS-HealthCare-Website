@@ -69,13 +69,18 @@
 
 <h2>📸 Screenshots</h2>
 <figure>
-  <figcaption>Includes pages like Home, About, Services, Treatments, Doctor Profile, ENT Surgeries, and Contact Page</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/05/ENTRova-Product-Detail-Image2-scaled.png" alt="ENTRova Medical Pages Screenshot">
+  <img width="1899" height="825" alt="image" src="https://github.com/user-attachments/assets/2f5c1572-34f0-4c38-a53d-2fe14f531952" />
+
 </figure>
+<img width="1895" height="832" alt="image" src="https://github.com/user-attachments/assets/d23fa9d1-69d3-4351-b0c2-49256d357374" />
+
+<img width="1899" height="828" alt="image" src="https://github.com/user-attachments/assets/5e683a68-c97f-4e40-97d6-738d05214e90" />
+
+<img width="1892" height="823" alt="image" src="https://github.com/user-attachments/assets/5709c5f5-9def-46d9-81fd-4e438d5eff02" />
 
 <figure>
-  <figcaption>Built with a responsive layout for desktop, tablet, and mobile devices</figcaption><br/>
-  <img src="https://themixly.com/wp-content/uploads/2025/05/ENTRova-Product-Detail-Image3-scaled.png" alt="ENTRova Responsive Layout">
+  <img width="1898" height="840" alt="image" src="https://github.com/user-attachments/assets/ff798638-d8e4-45f5-bc6c-c0f2adab69e9" />
+
 </figure>
 
 <h2>✨ Why Choose AROGYA ENT?</h2>
